@@ -28,4 +28,4 @@ My research interests focus on understanding and improving the inner workings of
 
 3. **Alignment/Safety:** How do we ensure that increasingly capable systems behave reliably, faithfully, and in alignment with human goals and intentions?
 
-See [Ideas](https://nehafury.github.io/teaching/) for open research questions and recent papers I’ve enjoyed thinking about
+See [Ideas](https://nehafury.github.io/assets/pdf/teaching.pdf) for open research questions and recent papers I’ve enjoyed thinking about
