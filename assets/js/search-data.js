@@ -25,10 +25,10 @@ ninja.data = [{
           },
         },{id: "nav-ideas",
           title: "ideas",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "These are open questions across reasoning/interpretability that I find interesting and important.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/assets/pdf/teaching.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
