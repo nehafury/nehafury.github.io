@@ -28,7 +28,7 @@ ninja.data = [{
           description: "These are open questions across reasoning/interpretability that I find interesting and important.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/teaching.pdf";
+            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
