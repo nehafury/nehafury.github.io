@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-ideas",
           title: "ideas",
-          description: "These are open questions across reasoning/interpretability that I find interesting and important.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
