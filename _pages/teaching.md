@@ -36,7 +36,6 @@ between in-context and in-weight learning(Russin et al., 2025)](https://www.pnas
 Board Game Models(Karvonen et al. 2024)](https://openreview.net/pdf?id=qzsDKwGJyB)
 3. [The Platonic Representation Hypothesis(Huh et. al 2024)](https://arxiv.org/pdf/2405.07987)
 4. [Are Sparse Autoencoders Useful? A Case Study in Sparse Probing(Kantamneni et al.](https://arxiv.org/pdf/2502.16681)
-2025) 
 
 **Alignment/Safety:**
 
@@ -44,8 +43,7 @@ Board Game Models(Karvonen et al. 2024)](https://openreview.net/pdf?id=qzsDKwGJy
 2. [Poisoning Attacks on LLMs Require a Near-Constant Number of Poison Samples(Souly 
 et al., 2025)](https://arxiv.org/pdf/2510.07192)
 3. [Eliciting Secret Knowledge From Language Models(Cywinski et. al 2025)](https://arxiv.org/pdf/2510.01070)
-4. [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](Chen 
-et al., 2025)](https://arxiv.org/pdf/2507.21509)
+4. [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/pdf/2507.21509)
 
 
 

@@ -1,21 +1,22 @@
 ---
 ---
 
-@article{marek2025small,
+@article{white2024livebench,
   title={MSE-Break: Steering Internal Representations to Bypass Refusals in Large Language Models},
   author={<b>{Ashwin Saraswatula}</b> and Balabhadra, Pranav and Dhinkar, Pranav},
   journal={International Conference on Machine Learning(ICML) Actionable Interpretability},
   year={2025},
   selected = {true},
   html={https://nehafury.github.io/},
-  abstract={ The flexibility of internal concept embeddings in large language models (LLMs) enables advanced capabilities like in-context learning—but also opens the door to adversarial exploitation. We introduce MSE-Break, a jailbreak method that optimizes a soft-prompt prefix via gradient descent to minimize the mean squared error (MSE) between harmful concept embeddings in refused and accepted contexts. The resulting soft prompt p is concept-specific but prompt-general, enabling it to jailbreak a wide range of queries involving that concept without further tuning. Applied to four popular open-source LLMs—including Gemma-2B-IT and LLaMA-3.1-8B-IT—MSE-Break achieves attack success rates exceeding 90%. Its interpretability-driven design enables MSE-Break to outperform existing methods like GCG and AutoDAN—while converging in a fraction of the time. We find that harmful concept embeddings are linearly separable between refused and accepted contexts—structure that MSE-Break actively exploits. We further show that concept representations can be drastically steered in-context with as little as a single token. Our findings underscore the brittleness of LLM representations—and their susceptibility to targeted manipulation—highlighting the urgency for more robust and interpretable safety mechanisms.},
+  abstract={The flexibility of internal concept embeddings in large language models (LLMs) enables advanced capabilities like in-context learning—but also opens the door to adversarial exploitation. We introduce MSE-Break, a jailbreak method that optimizes a soft-prompt prefix via gradient descent to minimize the mean squared error (MSE) between harmful concept embeddings in refused and accepted contexts. The resulting soft prompt p is concept-specific but prompt-general, enabling it to jailbreak a wide range of queries involving that concept without further tuning. Applied to four popular open-source LLMs—including Gemma-2B-IT and LLaMA-3.1-8B-IT—MSE-Break achieves attack success rates exceeding 90%. Its interpretability-driven design enables MSE-Break to outperform existing methods like GCG and AutoDAN—while converging in a fraction of the time. We find that harmful concept embeddings are linearly separable between refused and accepted contexts—structure that MSE-Break actively exploits. We further show that concept representations can be drastically steered in-context with as little as a single token. Our findings underscore the brittleness of LLM representations—and their susceptibility to targeted manipulation—highlighting the urgency for more robust and interpretable safety mechanisms.},
   preview={small_batch.png}
 }
 
+
 @article{white2024livebench,
   title={Data Whitening Improves Sparse Autoencoder Learning},
-  author={<b>{Ashwin Saraswatula}</b> and Klindt, David },
-  journal={Association for the Advancement of Artificial Intelligence (AAAI) XAI4Science},
+  author={<b>{Ashwin Saraswatula}</b> and Klindt, David},
+  journal={Association for the Advancement of Artificial Intelligence(AAAI) XAI4Science},
   year={2026},
   selected = {true},
   html={https://nehafury.github.io/},
@@ -27,10 +28,11 @@
 @article{white2024livebench,
   title={Bridging The Von Neumann Gap: Why LLMs Haven't Made Novel Discoveries},
   author={<b>{Ashwin Saraswatula}</b>},
-  journal={Association for the Advancement of Artificial Intelligence (AAAI) XAI4Science},
+  journal={Association for the Advancement of Artificial Intelligence(AAAI) XAI4Science},
   year={2026},
   selected = {true},
   html={https://nehafury.github.io/},
   abstract={Large language models (LLMs) have been trained on vast data spanning nearly every scientific discipline, yet they rarely produce meaningful novel discovery. Human polymaths such as John von Neumann routinely generated breakthroughs across disparate fields—from game theory to quantum mechanics to the very architecture of the modern computer—by connecting insights across domains. We argue this gap reflects a structural limitation of the LLM paradigm rather than a problem of scale. Drawing on Piaget’s theory of cognitive development and Gentner’s structure-mapping, we contend novel discovery depends on two core processes: constructing nuanced internal schemas of the external world and flexibly redeploying them via analogical mapping. Without embodied data or exploration, LLMs form shallow world models; and because their architectures optimize for statistical efficiency, they struggle to extend analogies out of distribution in ways that capture relational structure across domains. Without rethinking training environments and architectures, LLMs will remain constrained to weak abstraction rather than the deep reasoning required for scientific innovation},
   preview={von.png}
 }
+
