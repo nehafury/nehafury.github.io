@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: ideas
-description: These are open questions across reasoning/interpretability that I find interesting and important.
+description: 
 nav: true
 nav_order: 6
 ---
+
+**These are open questions across reasoning/interpretability that I find interesting and important.**
 
 1. How does in-context learning update internal representations? Does implicit gradient descent occur on the weights during ICL?
 2. “Data Drives Behavior” -> How does training on certain types of data increase/decrease types of model behavior?
