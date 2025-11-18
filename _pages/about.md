@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ashwin.saraswatula[at]case[dot]edu</p>
-    <a href='https://scholar.google.com/citations?user=pGDKzuUAAAAJ'>Google Scholar</a>
+    <a href='https://nehafury.github.io/'>Google Scholar</a>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
